@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "image": "Resources/ProjectsImages/task_management.png",
+      "title": "Task Management App",
+      "link": "https://lokhandecoder.github.io/taskmanagement/#/"
+    },
+    {
+      "image": "Resources/ProjectsImages/project2.png",
+      "title": "Project 2",
+      "link": "https://example.com/project2"
+    }
+  ]
+}

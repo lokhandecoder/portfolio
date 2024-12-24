@@ -1,0 +1,18 @@
+{
+  "experince": [
+    {
+      "companyname": "WonderBiz Technologies Pvt Ltd",
+      "Role": "Software Engineer",
+      "dateofjoining": "June 2023",
+      "dateofend":"Present",
+      "Description": "Collaborated with cross-functional teams to design, develop, and maintain .NET Core applications using the Repository Pattern for efficient data access and management. \n Developed reusable components in React, optimizing code efficiency and reducing development time for new features.\n Conducted thorough testing and debugging of applications using Jest and React Testing Library, ensuring high-quality deliverables and adherence to best practices in software development.\n Developed and optimized database schema and queries using MS SQL, which improved application performance by 10%. \n Designed and implemented role-based access control, defining permissions based on those roles to restrict or grant access to certain application features."
+    },
+    {
+      "companyname": "Researchwire Knowledge Solution Pvt Ltd",
+      "Role": "Associate Software Engineer",
+      "dateofjoining": "July 2022",
+      "dateofend":"June 2023",
+      "Description": "Collaborated with cross-functional teams to design, develop, and maintain dynamic web applications using React, PHP, and Symfony framework, ensuring a responsive and user-friendly interface.\n  Utilized HTML, CSS, and jQuery to create visually appealing and interactive user interfaces, improving user engagement and satisfaction Developed efficient, high-performance code for various software modules using C#. \n Conducted thorough testing and debugging of applications, ensuring high-quality deliverables and adherence to best practices in software development. \n  Worked closely with UX/UI designers to translate design wireframes into functional web applications, maintaining a consistent look and feel across various platforms."
+    }
+  ]
+}
